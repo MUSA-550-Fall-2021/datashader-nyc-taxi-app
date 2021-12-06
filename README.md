@@ -20,4 +20,4 @@ As the user zooms in/out of the map, the Altair chart updates to show only data 
 
 The `postBuild` file downloads the NYC taxi dataset (https://s3.amazonaws.com/datashader-data/nyc_taxi_wide.parq). This step is specific only to this app and does not need to be included if you are working with a different dataset.
 
-![dashboard screenshot](./assets/dashboard_screenshot.png)
+![dashboard screenshot](./assets/dashboard_screenshot.png?modified=123)
